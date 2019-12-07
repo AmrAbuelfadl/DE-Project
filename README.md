@@ -1,6 +1,6 @@
 # The Android App Market on Google Play
 
-Project a part of Data Engineering course - Winter'19.
+Final project of Data Engineering course - Winter'19.
 
 By: 
 
