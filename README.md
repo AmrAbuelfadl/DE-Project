@@ -5,9 +5,9 @@ Project a part of Data Engineering course - Winter'19.
 By: 
 
 Loay Alaaeldin \
-Amr Abuelfadl &nbsp;
-Mahmoud Ashmawy &nbsp;
-Youssef Haitham &nbsp;
+Amr Abuelfadl \
+Mahmoud Ashmawy \
+Youssef Haitham \
 Marwan Abdulgawad
 
 
