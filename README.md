@@ -4,7 +4,7 @@ Project a part of Data Engineering course - Winter'19.
 
 By: 
 
-Loay Alaaeldin &nbsp;
+Loay Alaaeldin \
 Amr Abuelfadl &nbsp;
 Mahmoud Ashmawy &nbsp;
 Youssef Haitham &nbsp;
